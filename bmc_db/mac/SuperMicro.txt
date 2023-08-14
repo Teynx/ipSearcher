@@ -1,0 +1,7 @@
+00:25:90:xx:xx:xx 00-25-90-xx-xx-xx 0025.90xx.xxxx
+00:30:48:xx:xx:xx 00-30-48-xx-xx-xx 0030.48xx.xxxx
+0C:C4:7A:xx:xx:xx 0C-C4-7A-xx-xx-xx 0CC4.7Axx.xxxx
+3C:EC:EF:xx:xx:xx 3C-EC-EF-xx-xx-xx 3CEC.EFxx.xxxx
+7C:C2:55:xx:xx:xx 7C-C2-55-xx-xx-xx 7CC2.55xx.xxxx
+90:5A:08:xx:xx:xx 90-5A-08-xx-xx-xx 905A.08xx.xxxx
+AC:1F:6B:xx:xx:xx AC-1F-6B-xx-xx-xx AC1F.6Bxx.xxxx
